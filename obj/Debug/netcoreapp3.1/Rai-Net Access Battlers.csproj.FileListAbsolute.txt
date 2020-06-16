@@ -1,0 +1,15 @@
+C:\Users\MrComputersworth\Desktop\Code\Rai-Net Access Battlers\obj\Debug\netcoreapp3.1\Rai-Net Access Battlers.csprojAssemblyReference.cache
+C:\Users\MrComputersworth\Desktop\Code\Rai-Net Access Battlers\obj\Debug\netcoreapp3.1\Rai-Net Access Battlers.AssemblyInfoInputs.cache
+C:\Users\MrComputersworth\Desktop\Code\Rai-Net Access Battlers\obj\Debug\netcoreapp3.1\Rai-Net Access Battlers.AssemblyInfo.cs
+C:\Users\MrComputersworth\Desktop\Code\Rai-Net Access Battlers\obj\Debug\netcoreapp3.1\Rai-Net Access Battlers.csproj.CoreCompileInputs.cache
+C:\Users\MrComputersworth\Desktop\Code\Rai-Net Access Battlers\bin\Debug\netcoreapp3.1\Rai-Net Access Battlers.exe
+C:\Users\MrComputersworth\Desktop\Code\Rai-Net Access Battlers\bin\Debug\netcoreapp3.1\Rai-Net Access Battlers.deps.json
+C:\Users\MrComputersworth\Desktop\Code\Rai-Net Access Battlers\bin\Debug\netcoreapp3.1\Rai-Net Access Battlers.runtimeconfig.json
+C:\Users\MrComputersworth\Desktop\Code\Rai-Net Access Battlers\bin\Debug\netcoreapp3.1\Rai-Net Access Battlers.runtimeconfig.dev.json
+C:\Users\MrComputersworth\Desktop\Code\Rai-Net Access Battlers\bin\Debug\netcoreapp3.1\Rai-Net Access Battlers.dll
+C:\Users\MrComputersworth\Desktop\Code\Rai-Net Access Battlers\bin\Debug\netcoreapp3.1\Rai-Net Access Battlers.pdb
+C:\Users\MrComputersworth\Desktop\Code\Rai-Net Access Battlers\bin\Debug\netcoreapp3.1\OpenTK.dll
+C:\Users\MrComputersworth\Desktop\Code\Rai-Net Access Battlers\obj\Debug\netcoreapp3.1\Rai-Net Access Battlers.csproj.CopyComplete
+C:\Users\MrComputersworth\Desktop\Code\Rai-Net Access Battlers\obj\Debug\netcoreapp3.1\Rai-Net Access Battlers.dll
+C:\Users\MrComputersworth\Desktop\Code\Rai-Net Access Battlers\obj\Debug\netcoreapp3.1\Rai-Net Access Battlers.pdb
+C:\Users\MrComputersworth\Desktop\Code\Rai-Net Access Battlers\obj\Debug\netcoreapp3.1\Rai-Net Access Battlers.genruntimeconfig.cache
